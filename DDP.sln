@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DDP", "DDP.pyproj", "{217935A5-28CD-4C82-8FD1-D02CFFBBEB87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217935A5-28CD-4C82-8FD1-D02CFFBBEB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217935A5-28CD-4C82-8FD1-D02CFFBBEB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15086B70-7186-42D8-AB7C-FE990A5A0C3A}
+	EndGlobalSection
+EndGlobal
